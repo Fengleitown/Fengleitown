@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋，我也整一个主页页面。
 
 <!--
 **Fengleitown/Fengleitown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on ...某厂子任职T0、P0级别的中级菜鸟。
+- 🌱 I’m currently learning ...整一个gitHub玩儿，想整简历里面万一能多要一千块钱呢。
+- 👯 I’m looking to collaborate on ...如果有一个不要钱的前端合作那最好了...
+- 🤔 I’m looking for help with ...我想成为一个月薪3+W的架构师！
+- 💬 Ask me about ...没啥问的，技术又菜阅历又不丰富...
+- 📫 How to reach me: ...要是闲着无聊加我也行，反正我也闲着无聊，wx:ChatGptModelAI
+- 😄 代词：...这个单词是什么意思？代词？是代号昵称的意思吗？
+- ⚡ Fun fact: ...小时候说我不想当国家主席，因为我不想上电视...
